@@ -1,2 +1,2 @@
 # WiredCraft_Test6
-test1
+test2
