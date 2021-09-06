@@ -35,4 +35,4 @@ jobs:
           context: .
           push: true
           tags: |
-            mtch007/${{ env.DOCKER_IMAGE }}
+            ${{ secrets.DOCKERHUB_USERNAME }}/${{ env.DOCKER_IMAGE }}
