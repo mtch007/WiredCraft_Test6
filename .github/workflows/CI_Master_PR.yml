@@ -5,7 +5,7 @@ on:
     branches: [ master ]
 
 jobs:
-  build and test:
+  build:
     runs-on: windows-latest
     
     steps:
